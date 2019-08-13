@@ -6,7 +6,7 @@ Clone of the website for the popular photo app Instagram
 
 ## Created by
 
-[John Wanjema](https://github.com/goldangera?tab=repositories) 12/7/2019
+[Golda Ngera](https://github.com/goldangera?tab=repositories) 12/7/2019
 
 ## Setup and installations
 
@@ -108,7 +108,7 @@ Create an issue mentioning the bug you have found
 
 ## Support and contact details
 
-Contact [John Wanjema](nkirotegolda6888@gmail.com) for further help/support
+Contact [golda ngera](nkirotegolda6888@gmail.com) for further help/support
 
 ### License
 
